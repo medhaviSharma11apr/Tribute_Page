@@ -1,0 +1,59 @@
+  body {
+        background-color: rgb(121, 233, 177);
+    }
+
+    .bodee {
+        margin: 0%;
+    }
+
+    .name {
+        margin: 30px auto;
+        display: flex;
+        justify-content: center;
+        font-size: 45px;
+        font-weight: 700;
+        letter-spacing: 2px;
+    }
+
+    .image {
+        /* margin: 30px auto; */
+        background-image: url("/image2.png");
+        background-repeat: no-repeat;
+        height: 400px;
+        width: 600px;
+
+        display: flex;
+        justify-content: center;
+        margin: 30px auto;
+    }
+
+    .caption {
+        height: 100px;
+        width: 700px;
+
+        display: flex;
+        justify-content: center;
+        margin: -15px auto;
+        font-size: 24px;
+    }
+     div.tribute-data {
+        width: 700px;
+        height: 1100px;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+            background-color: rgb(46, 139, 87, 0.25);
+            box-shadow: 20px 20px 20px #98FB98;
+            font-family: Georgia;
+            padding: 25px 25px;
+           
+        }
+        .footer{
+    width: 700px;
+        height: 100px;
+        margin: auto;
+        /* display: flex; */
+        justify-content: center;
+            /* font-family: Georgia;*/
+            font-size: 17px;
+        }
